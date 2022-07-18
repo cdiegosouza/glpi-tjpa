@@ -24,7 +24,7 @@
         "jquery-migrate": "^3.0.1",
         "jquery-mousewheel": "^3.1.13",
         "jquery-prettytextdiff": "^1.0.4",
-        "jquery-ui": "^1.12.1",
+        "jquery-ui": "^1.13.2",
         "jquery-ui-dist": "^1.12.1",
         "jquery-ui-timepicker-addon": "^1.6.3",
         "jquery.autogrow-textarea": "^0.4.1",
