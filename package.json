@@ -44,7 +44,7 @@
         "select2-theme-bootstrap4": "^0.2.0-beta.3",
         "spectrum-colorpicker": "^1.8.0",
         "spin.js": "^2.3.2",
-        "tinymce": "^4.9.6",
+        "tinymce": "^5.10.7",
         "tinymce-i18n": "^19.5.15",
         "unorm": "^1.6.0"
     },
